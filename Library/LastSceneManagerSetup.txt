@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ainas/sakums.unity
+  isLoaded: 1
+  isActive: 1
